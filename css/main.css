@@ -4,52 +4,45 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : Nov 30, 2017, 1:56:32 PM
+    Created on : Dec 1, 2017, 4:12:09 PM
     Author     : Divyang Kankotiya
 */
-
 .traffic-light {
-    width: 100%;
+  width: 100%;
 }
-
 .off {
-    background-color: transparent!important;
+  background-color: transparent!important;
 }
-
 .traffic-light {
-    margin: 0 auto;
-    width: 10%;
-    min-width: 180px;
-    border: 5px solid black;
+  margin: 0 auto;
+  width: 10%;
+  min-width: 120px;
+  border: 5px solid black;
 }
-
-.traffic-light div
-{
-    margin: 0 auto;
-    width: 100px;
-    height: 100px;
-    border: 5px solid black;
-    border-radius: 50%;
-    margin-top: 5px;
-    margin-bottom: 5px;
+.traffic-light div {
+  margin: 0 auto;
+  width: 50px;
+  height: 50px;
+  border: 5px solid black;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
-.traffic-light-2 div 
-{
-    margin: 0 auto;
-    width: 100px;
-    height: 100px;
-    border: 5px solid black;
-    border-radius: 50%;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    display: inline-block;
-    text-align: center;
+.traffic-light-2 div {
+  margin: 0 auto;
+  width: 50px;
+  height: 50px;
+  border: 5px solid black;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+  text-align: center;
 }
-.traffic-light-2 
-{
-    min-width: 500px;
-    display: inline-block;
-    margin: 0 auto;
-    border: 5px solid black;
-    text-align: center;
+.traffic-light-2 {
+  display: inline-block;
+  margin: 0 auto;
+  border: 5px solid black;
+  text-align: center;
 }
+/*# sourceMappingURL=main.css.map */
